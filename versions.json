@@ -1,11 +1,17 @@
 [{
 	"kvpVersionUri":
 	[{
-		"key":"0.0.1","value":"https:\/\/google.com\/"},
-		{"key":"0.0.2","value":"https:\/\/google.com\/"}],
+		"key":"0.0.1","value":"https:\/\/google.com\/"
+	},
+	{
+		"key":"0.0.2","value":"https:\/\/google.com\/"
+	}],
 		"name":"Подхвостень"},
-	{"kvpVersionUri":
+	{
+		"kvpVersionUri":
 	[{
-		"key":"0.0.1","value":"https:\/\/google.com\/"}],
-		"name":"Test"}
+		"key":"0.0.1","value":"https:\/\/google.com\/"
+	}],
+		"name":"Test"
+	}
 ]
