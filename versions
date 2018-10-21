@@ -1,9 +1,11 @@
-{
-"kvpVersionUri":[
-	{"key":"0.0.1","value":"https:\/\/gogle.com\/"},
-	{"key":"0.0.2","value":"https:\/\/gogle.com\/"}],
-	"name":"Подхвостень"}
-{"kvpVersionUri":[
-	{"key":"0.0.1","value":"https:\/\/gogle.com\/"}],
-	"name":"Тест"
-}
+[{
+	"kvpVersionUri":
+	[{
+		"key":"0.0.1","value":"https:\/\/google.com\/"},
+		{"key":"0.0.2","value":"https:\/\/google.com\/"}],
+		"name":"Подхвостень"},
+	{"kvpVersionUri":
+	[{
+		"key":"0.0.1","value":"https:\/\/google.com\/"}],
+		"name":"Test"}
+]
