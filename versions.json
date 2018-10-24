@@ -19,21 +19,15 @@
 		}]
 	},
 	{
-		"name":"Test",
+		"name":"AtoZ",
 		"type":0,
 		"versionData":[
 		{
-			"dateRelease":"\/Date(1540160499309+0300)\/",
-			"size":23456789,
-			"status":0,"url":"https:\/\/google.com\/",
-			"version":"0.0.1"
-		},
-		{
-			"dateRelease":"\/Date(1540160499309+0300)\/",
-			"size":12345678,
-			"status":0,
-			"url":"https:\/\/youtube.com\/",
-			"version":"0.0.2"
+			"dateRelease":"\/Date(1318488666003+0300)\/",
+			"size":11143,
+			"status":2,
+			"url":"https:\/\/github.com\/VoidPtrYT\/VPLauncher\/raw\/master\/AtoZ.zip",
+			"version":"1.0.0"
 		}]
 	}
 ]
